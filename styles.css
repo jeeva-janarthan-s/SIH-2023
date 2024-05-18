@@ -1,0 +1,74 @@
+.heading_css {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+  
+  .footer{
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .body {
+    height:100%;
+    background-color: white;
+  }
+  
+  #container_div {
+    margin-top: 100px;
+  }
+  
+  #chckbox {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    transition-duration: 0.5s;
+  }
+  
+  #chckbox:hover {
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+    transition-duration: 0.5s;
+  }
+  
+  #row_box {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  #row {
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  
+  .btm_btn {
+    background-color: black;
+    color : white;
+    text-align: center;
+    font-family: 'Montserrat', light 300;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    transition-duration: 0.5s;
+    border-radius: 50px;
+  }
+  
+  .btm_btn:hover {
+    background-color: white;
+    color : black;
+    text-align: center;
+    font-family: 'Montserrat', light 300;
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    transition-duration: 0.5s;
+    border-radius: 50px;
+  }
